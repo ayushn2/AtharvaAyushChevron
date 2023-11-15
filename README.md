@@ -1,2 +1,2 @@
-# AtharvaAyushStock
+# AtharvaAyushChevron
 A design credit project
