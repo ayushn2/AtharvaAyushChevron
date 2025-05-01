@@ -1,2 +1,2 @@
 # AtharvaAyushChevron
-A design credit project
+Please see 'Design_Credit.ipynb'
